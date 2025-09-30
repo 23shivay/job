@@ -1,0 +1,10 @@
+crawl4ai
+playwright
+asyncio
+typing-extensions
+python-dotenv
+pydantic
+
+# Database
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9    # Postgres driver
